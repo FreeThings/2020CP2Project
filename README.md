@@ -7,3 +7,6 @@ The goal of this project is to create a software in which on a host device an ad
 ## Documentation
 1. Video of Product
 2. Research Notes
+
+## Class Design
+![Banner](https://github.com/FreeThings/2020CP2Project/blob/main/banners/Classe%20Design.jpg)
